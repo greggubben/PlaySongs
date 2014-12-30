@@ -1,0 +1,31 @@
+/*
+Notes to play the Iowa State Univerity's Fight Song
+
+*/
+
+Note isu_fight[] = {
+  {NOTE_D3, EIGHTH},
+  {NOTE_DS3,EIGHTH},
+  {NOTE_E3, EIGHTH},
+  {NOTE_C4, QUARTER},
+  {NOTE_E3, EIGHTH},
+  {NOTE_C4, QUARTER},
+  {NOTE_E3, EIGHTH},
+  {NOTE_C4, DOTTEDHALF},
+  {NOTE_E4,  QUARTER},
+  {NOTE_E4,  QUARTER},
+  {NOTE_F4,  QUARTER},
+  {NOTE_G4,  QUARTER},
+  {NOTE_G4,  QUARTER},
+  {NOTE_F4,  QUARTER},
+  {NOTE_E4,  QUARTER},
+  {NOTE_D4,  QUARTER},
+  {NOTE_C4,  QUARTER},
+  {NOTE_C4,  QUARTER},
+  {NOTE_D4,  QUARTER},
+  {NOTE_E4,  QUARTER},
+  {NOTE_E4,  QUARTER},
+  {NOTE_D4,  QUARTER},
+  {NOTE_D4,  HALF},
+  {END_NOTES,  END_NOTES}
+  };

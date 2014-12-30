@@ -1,0 +1,39 @@
+/*
+Notes to play Ode to Joy by Beethoven
+*/
+
+Note joy[] = {
+  {NOTE_E5, QUARTER},
+  {NOTE_E5,  QUARTER},
+  {NOTE_F5,  QUARTER},
+  {NOTE_G5,  QUARTER},
+  {NOTE_G5,  QUARTER},
+  {NOTE_F5,  QUARTER},
+  {NOTE_E5,  QUARTER},
+  {NOTE_D5,  QUARTER},
+  {NOTE_C5,  QUARTER},
+  {NOTE_C5,  QUARTER},
+  {NOTE_D5,  QUARTER},
+  {NOTE_E5,  QUARTER},
+  {NOTE_E5,  QUARTER},
+  {NOTE_D5,  QUARTER},
+  {NOTE_D5,  HALF},
+  {REST,  EIGHTH},
+  {NOTE_E4,  QUARTER},
+  {NOTE_E4,  QUARTER},
+  {NOTE_F4,  QUARTER},
+  {NOTE_G4,  QUARTER},
+  {NOTE_G4,  QUARTER},
+  {NOTE_F4,  QUARTER},
+  {NOTE_E4,  QUARTER},
+  {NOTE_D4,  QUARTER},
+  {NOTE_C4,  QUARTER},
+  {NOTE_C4,  QUARTER},
+  {NOTE_D4,  QUARTER},
+  {NOTE_E4,  QUARTER},
+  {NOTE_E4,  QUARTER},
+  {NOTE_D4,  QUARTER},
+  {NOTE_D4,  HALF},
+  {END_NOTES,  END_NOTES}
+  };
+
